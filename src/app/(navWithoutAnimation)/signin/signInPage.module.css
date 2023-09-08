@@ -1,0 +1,25 @@
+.successRegistration {
+    text-align: center;
+    color: var(--primaryLight);
+    font-weight: bold;
+    border: 1px solid green;
+    padding: 8px;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 20px auto;
+    font-size: 1.3rem;
+}
+
+.title {
+    margin-bottom: 1.8rem;
+}
+
+.signInForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}

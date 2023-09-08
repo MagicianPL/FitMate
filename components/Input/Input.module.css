@@ -1,0 +1,6 @@
+.inputError {
+    color: red;
+    font-size: 0.8rem;
+    padding-left: 10px;
+    min-height: 1rem;
+}
